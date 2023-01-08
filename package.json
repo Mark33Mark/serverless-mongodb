@@ -1,0 +1,29 @@
+{
+  "name": "serverless-mongodb",
+  "version": "1.0.0",
+  "description": "Investigating serverless lambda functions with a mongodb databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark33Mark/serverless-mongodb.git"
+  },
+  "keywords": [
+    "mongodb",
+    "lambda",
+    "functions",
+    "netlify"
+  ],
+  "author": "Mark Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mark33Mark/serverless-mongodb/issues"
+  },
+  "homepage": "https://github.com/Mark33Mark/serverless-mongodb#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1"
+  }
+}
